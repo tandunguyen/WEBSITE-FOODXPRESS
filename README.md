@@ -91,6 +91,7 @@ Backend cung cấp các API RESTful cho:
 ---
 
 Demo
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/c521a82e-8834-4caa-99a7-b9b03997c71e" />
 
 
 ---
